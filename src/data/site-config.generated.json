@@ -2,7 +2,7 @@
   "url": "https://global-markets.publume.dev/",
   "name": "Global Markets Daily",
   "description": "A bilingual daily market-intelligence briefing focused on global macroeconomic developments and policy signals.",
-  "tagline": "Daily macro signals with evidence and context.",
+  "tagline": "Global data, policy decisions, and the signal behind the headlines.",
   "locale": "en",
   "outputLanguages": [
     "zh-CN",
